@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+p {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: white;
+}
